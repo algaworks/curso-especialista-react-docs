@@ -146,7 +146,7 @@ Para o blog.
 
 Você pode baixar o projeto do AlgaNews através do repositório oficial no GitHub:
 
-[](https://github.com/algaworks/alganews-figma)
+https://github.com/algaworks/alganews-figma[](https://github.com/algaworks/alganews-figma)
 
 ## Link do Ant Design
 
