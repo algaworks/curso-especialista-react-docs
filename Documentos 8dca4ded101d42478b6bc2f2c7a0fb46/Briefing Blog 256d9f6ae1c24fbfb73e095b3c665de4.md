@@ -32,4 +32,4 @@ Sim. Durante eventos, é possível que mudemos as cores da marca e alguns estilo
 
 Você pode baixar o projeto do AlgaNews através do repositório oficial no GitHub:
 
-[](https://github.com/algaworks/alganews-figma)
+[https://github.com/algaworks/alganews-figma](https://github.com/algaworks/alganews-figma)
